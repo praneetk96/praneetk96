@@ -1,9 +1,9 @@
-## My name is Praneet Kumar and i'm a JS Developer
+## My name is Praneet Kumar and i'm a JavaScript Developer
 
 - 👀 I’m interested in creating applications and configure dotfiles
-- 🌱 I’m currently learning Kotlin, Lua, Pyhton
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me praneetk96@protonmail.com
+- 🌱 Currently learning Kotlin, Lua, Pyhton
+- 💞️ My 2022 resolution is to contribute more on open source projects
+- 📫 How to reach me praneetk96@gmail.com
 
 <!---
 praneetk96/praneetk96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
