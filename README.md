@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @praneetk96
+## My name is Praneet Kumar and i'm a JS Developer
+
 - 👀 I’m interested in creating applications and configure dotfiles
 - 🌱 I’m currently learning Kotlin, Lua, Pyhton
 - 💞️ I’m looking to collaborate on Open Source projects
