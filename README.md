@@ -1,5 +1,9 @@
 ## Hi there, I'm Praneet! 👋
 
+<div align = "center">
+    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A1ZzZvb2l2Y2gwOWczZnJpNWVtbG95Z213djB0N3Z0bnhrNzRjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2fHtxXpyMEqpmCJljY/giphy.gif">
+</div>
+
 <!--
 **praneetk96/praneetk96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
