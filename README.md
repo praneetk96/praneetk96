@@ -1,7 +1,7 @@
 ## Hi there, I'm Praneet! 👋
 
 <div align = "center">
-    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3A1ZzZvb2l2Y2gwOWczZnJpNWVtbG95Z213djB0N3Z0bnhrNzRjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2fHtxXpyMEqpmCJljY/giphy.gif">
+    <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk2czFnbmpjZ2VrNjJoM3ZoMnRuaXhweHB6ajZxMnliOXRsZGJ6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRLGj99k5cpmg0OUHM/giphy.gif">
 </div>
 
 <!--
